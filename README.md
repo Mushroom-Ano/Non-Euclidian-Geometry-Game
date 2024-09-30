@@ -9,6 +9,14 @@ In this game, you'll experience environments that defy traditional physics and l
 
 ---
 
+## 🚧 Demo Status
+
+This is an **unfinished demo** currently under development. Many features are in progress, and we welcome feedback!
+
+You can **try out the demo** directly on **GitHub Pages** through your browser via WebGL [here](https://your-username.github.io/non-euclidean-game-demo/).
+
+---
+
 ## 🎮 Features
 
 - **3rd Person Perspective:** Take control of your character and explore the surreal world.
@@ -33,14 +41,6 @@ In this game, you'll experience environments that defy traditional physics and l
 ![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/6ff213dd-b986-4eb3-89d8-7fa561fa5bab)
 
 ![Untitled video - Made with Clipchamp (5)](https://github.com/user-attachments/assets/2b6d797d-e089-4f8e-a529-99eca97b70ea)
-
----
-
-## 🚧 Demo Status
-
-This is an **unfinished demo** currently under development. Many features are in progress, and we welcome feedback!
-
-You can **try out the demo** directly on **GitHub Pages** through your browser via WebGL [here](https://your-username.github.io/non-euclidean-game-demo/).
 
 ---
 
