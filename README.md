@@ -15,7 +15,7 @@ This is an **unfinished demo** currently under development. Many features are in
 
 You can **try out the demo** directly on **GitHub Pages** through your browser via WebGL 
 
-[Play it Here!](https://your-username.github.io/non-euclidean-game-demo/).
+[Play it Here!](https://mushroom-ano.github.io/Non-Euclidian-Geometry-Game/).
 
 ---
 
