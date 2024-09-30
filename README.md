@@ -21,14 +21,14 @@ In this game, you'll experience environments that defy traditional physics and l
 - **Exploratory Gameplay:** Discover the strange environment and prepare for unexpected twists.
 
 
-## 😲 Endless Tunnel
+## 😲 Endless Wall and Tunnels!
 
 ![image](https://github.com/user-attachments/assets/0add6d85-c9de-4cc6-982d-85a5784068d6)
 
 ![Untitled video - Made with Clipchamp (3)](https://github.com/user-attachments/assets/d0f6f74e-5737-4bef-a2ce-fb203d1d9a00)
 
 
-## Head and Leg IKs
+## Head and Leg IKs!
 
 ![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/6ff213dd-b986-4eb3-89d8-7fa561fa5bab)
 
