@@ -13,7 +13,9 @@ In this game, you'll experience environments that defy traditional physics and l
 
 This is an **unfinished demo** currently under development. Many features are in progress, and we welcome feedback!
 
-You can **try out the demo** directly on **GitHub Pages** through your browser via WebGL [here](https://your-username.github.io/non-euclidean-game-demo/).
+You can **try out the demo** directly on **GitHub Pages** through your browser via WebGL 
+
+[Play it Here!](https://your-username.github.io/non-euclidean-game-demo/).
 
 ---
 
